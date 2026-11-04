@@ -1,8 +1,7 @@
 <div align="center">
 
   <!-- HERO BANNER -->
-  <img src="./banner.jpeg" alt="Izen Abbas - Mobile Application Developer" width="100%" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,70:121316,100:991B1B&height=200&section=header&text=IZEN%20ABBAS&fontSize=50&fontColor=E5E7EB&fontAlignY=42&desc=MOBILE%20APPLICATION%20DEVELOPER%20%E2%80%A2%20FLUTTER%20%26%20NATIVE%20iOS&descSize=16&descColor=DC2626&descAlignY=68" alt="Izen Abbas Banner" />
   <br />
 
   <!-- NAVIGATION & CONTACT LINKS -->
