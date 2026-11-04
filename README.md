@@ -1,10 +1,16 @@
 <div align="center">
 
   <!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,70:121316,100:991B1B&height=200&section=header&text=IZEN%20ABBAS&fontSize=50&fontColor=E5E7EB&fontAlignY=42&desc=MOBILE%20APPLICATION%20DEVELOPER%20%E2%80%A2%20FLUTTER%20%26%20NATIVE%20iOS&descSize=16&descColor=DC2626&descAlignY=68" alt="Izen Abbas Banner" />
+  <!-- If you uploaded the image file, use this line: -->
+  <img src="./banner.png" alt="Izen Abbas Banner" width="100%" />
+
+  <!-- If you prefer the code-only SVG banner instead, use this line:
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,70:121316,100:991B1B&height=200&section=header&text=IZEN%20ABBAS&fontSize=48&fontColor=E5E7EB&fontAlignY=40&desc=MOBILE%20APPLICATION%20DEVELOPER%20-%20FLUTTER%20%26%20NATIVE%20iOS&descSize=15&descColor=DC2626&descAlignY=66" alt="Izen Abbas Banner" />
+  -->
+
   <br />
 
-  <!-- NAVIGATION & CONTACT LINKS -->
+  <!-- NAVIGATION & CONTACT -->
   <p align="center">
     <a href="https://izenabbas.vercel.app">
       <img src="https://img.shields.io/badge/PORTFOLIO-121316?style=for-the-badge&logo=vercel&logoColor=DC2626&labelColor=0D1117" alt="Portfolio" />
@@ -29,9 +35,9 @@
 
 Software Engineer specializing in production-grade **Flutter** and **Native iOS (Swift / SwiftUI)** applications alongside low-level systems engineering. Experienced in architecting end-to-end mobile solutions, reactive state management, RESTful API integrations, and TestFlight release pipelines, complemented by strong foundations in **C++, Compiler Construction, and Applied Machine Learning**.
 
-* **Current Focus:** Engineering real-time cross-platform mobile ecosystems and native iOS architectures.
-* **Academic Foundation:** B.S. Computer Science at FAST-NUCES, Lahore.
-* **Portfolio:** [izenabbas.vercel.app](https://izenabbas.vercel.app)
+- **Current Focus:** Engineering real-time cross-platform mobile ecosystems and native iOS architectures.
+- **Academic Foundation:** B.S. Computer Science at FAST-NUCES, Lahore.
+- **Portfolio:** [izenabbas.vercel.app](https://izenabbas.vercel.app)
 
 ---
 
@@ -75,4 +81,22 @@ Software Engineer specializing in production-grade **Flutter** and **Native iOS 
 
 | Repository | Domain | Architecture & Stack |
 | :--- | :--- | :--- |
-| **[Asset Advisor](https://github.com/IzenAbbas/Asset_price_predictor)** | Full-Stack Mobile & ML | Price
+| **[Asset Advisor](https://github.com/IzenAbbas/Asset_price_predictor)** | Full-Stack Mobile & ML | Price prediction platform for vehicles and real estate built with **Flutter, FastAPI, Scikit-Learn, and Gemini API**. |
+| **[Sift](https://github.com/IzenAbbas/Sift)** | Compiler Engineering | Domain-specific language compiler for ML data pipelines utilizing **C++, Flex, Bison, and LLVM IR**. |
+| **[ultimate-dart-toolkit](https://github.com/IzenAbbas/ultimate-dart-toolkit)** | Mobile Architecture | Reusable utilities, networking layers, and core extensions for **Dart & Flutter** applications. |
+| **[CineFAST](https://github.com/IzenAbbas/CineFast)** | Application Engineering | Full-featured cinema ticketing and seat reservation system built with **Java** and object-oriented design patterns. |
+
+---
+
+### GITHUB TELEMETRY
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=IzenAbbas&show_icons=true&bg_color=0D1117&title_color=DC2626&text_color=E5E7EB&icon_color=B91C1C&border_color=27272A&hide_border=false" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzenAbbas&layout=compact&bg_color=0D1117&title_color=DC2626&text_color=E5E7EB&border_color=27272A&hide_border=false" alt="Top Languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img height="160" src="https://streak-stats.demolab.com?user=IzenAbbas&background=0D1117&border=27272A&stroke=27272A&ring=DC2626&fire=DC2626&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=DC2626&sideLabels=9CA3AF&dates=9CA3AF" alt="GitHub Streak" />
+</div>
