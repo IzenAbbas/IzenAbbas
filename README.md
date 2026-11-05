@@ -85,18 +85,3 @@ Software Engineer specializing in production-grade **Flutter** and **Native iOS 
 | **[Sift](https://github.com/IzenAbbas/Sift)** | Compiler Engineering | Domain-specific language compiler for ML data pipelines utilizing **C++, Flex, Bison, and LLVM IR**. |
 | **[ultimate-dart-toolkit](https://github.com/IzenAbbas/ultimate-dart-toolkit)** | Mobile Architecture | Reusable utilities, networking layers, and core extensions for **Dart & Flutter** applications. |
 | **[CineFAST](https://github.com/IzenAbbas/CineFast)** | Application Engineering | Full-featured cinema ticketing and seat reservation system built with **Java** and object-oriented design patterns. |
-
----
-
-### GITHUB TELEMETRY
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=IzenAbbas&show_icons=true&bg_color=0D1117&title_color=DC2626&text_color=E5E7EB&icon_color=B91C1C&border_color=27272A&hide_border=false" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzenAbbas&layout=compact&bg_color=0D1117&title_color=DC2626&text_color=E5E7EB&border_color=27272A&hide_border=false" alt="Top Languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=IzenAbbas&background=0D1117&border=27272A&stroke=27272A&ring=DC2626&fire=DC2626&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=DC2626&sideLabels=9CA3AF&dates=9CA3AF" alt="GitHub Streak" />
-</div>
